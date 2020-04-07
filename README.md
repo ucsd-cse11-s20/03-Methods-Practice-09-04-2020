@@ -10,8 +10,6 @@ Reading:
 
 https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture4.html
 
-(Same as previous lecture, getting more practice)
-
 Slides to follow along:
 
 https://docs.google.com/presentation/d/13udSM1MvhDdTWPzRDzlkc4_RbRwNeVcNyDdCArPtSQg/edit#slide=id.p
